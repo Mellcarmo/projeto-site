@@ -38,7 +38,11 @@ h2  {
 
 
 }
-    
+ 
+img.lado {
+    float: right;
+}
+
 a  {
      text-decoration: rgb(15, 15, 15);
      font-weight: bold;
